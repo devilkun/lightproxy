@@ -73,6 +73,7 @@ Take a quick start at: https://lightproxy.org/doc/getting-started
 ### dev
 
 ```shell
+npm install -g yarn fastyarn
 git clone https://github.com/alibaba/lightproxy
 cd lightproxy
 yarn run install-deps
@@ -88,6 +89,3 @@ For new contributors you can try to fix a [🏅send-a-PR](https://github.com/ali
     <img src="https://contributors-img.web.app/image?repo=alibaba/lightproxy"></img>
   </a>
 </p>
-
-> ICBU 端架构团队招聘
-> ❤️ 如果你擅长端技术，热爱开源，追求极致的用户体验和开发者体验，欢迎发简历到 xcodebuild+lp@gmail.com
